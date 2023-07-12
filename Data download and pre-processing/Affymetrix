@@ -24,7 +24,7 @@ untar("~/AML/data/GSE976/GSE976_RAW.tar", exdir="GSE976/CEL")
 
 #listing all .cel files in the folder
 #list.files("~/AML/")
-#list.files("~/AML/data/CEL/GSE196107")
+#list.files("~/AML/data/CEL/GSE976")
 
 #read .cel files by oligo
 #celfiles <- list.files("~/AML/data/GSE976/CEL", full = TRUE)
