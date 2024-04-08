@@ -6,6 +6,7 @@ AMLdb (Acute Myeloid Leukemia Database) is a comprehensive resource for research
 - Etiology and Biomarkers: Understand the underlying causes of AML and discover relevant biomarkers.
 - Drug Sensitivity Information: Access information on drug responses and personalized treatment options.
 - Mutational Analysis: Investigate genetic mutations associated with AML.
+- Identified Gene Targets: Explore the gene targets associated with AML. We provide information on genes implicated in AML pathogenesis.
 
 # AMLdb Website
 Visit our official website for more information: https://project.iith.ac.in/cgntlab/amldb 
